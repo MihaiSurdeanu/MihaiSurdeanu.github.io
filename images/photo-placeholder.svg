@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="210" viewBox="0 0 180 210">
+  <title>Photo placeholder</title>
+  <rect width="180" height="210" fill="#f3f5f7"/>
+  <text x="90" y="99" text-anchor="middle" fill="#596573" font-family="Arial, sans-serif" font-size="14">Photo placeholder</text>
+  <text x="90" y="121" text-anchor="middle" fill="#596573" font-family="Arial, sans-serif" font-size="11">Mihai Surdeanu</text>
+</svg>
